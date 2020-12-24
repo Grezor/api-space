@@ -1,10 +1,12 @@
 import React from 'react'
-import Button from '@material-ui/core/Button';
+import Grid from '../Grid/SpacingGrid'
 
 function Home() {
 
   return (
-    <Button color="primary">Heloo Word</Button>
+    <div>
+      <Grid></Grid>
+    </div>
   )
 }
 
