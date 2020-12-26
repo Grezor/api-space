@@ -5,7 +5,7 @@ function Home() {
 
   return (
     <div>
-      <Grid></Grid>
+      <h1>Home</h1>
     </div>
   )
 }
